@@ -4,7 +4,7 @@ This project includes a full React Navigation example with StackNavigator, Botto
 
 # Preview
 
-![../media/authflow.png](../media/authflow.png)
+
 
 # Installation
 
@@ -30,7 +30,7 @@ This project includes a full React Navigation example with StackNavigator, Botto
 
 ### Prebuilt UI Screens
 
-There are 3 screens included inside `./src/screens/auth`. The ilustrations I use [undraw](https://undraw.co/)
+There are 3 screens included inside `./src/screens/auth`.
 
 - Login screen `./src/screens/auth/login.tsx`
 - Register screen `./src/screens/auth/register.tsx`
