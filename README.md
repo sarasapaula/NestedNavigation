@@ -3,7 +3,7 @@
 This project includes a full React Navigation example with StackNavigator, BottomTabNavigator and Nested Navigation.
 
 # Preview
-(https://github.com/sarasapaula/NestedNavigation/blob/main/nestedNavigation.jpg)
+![](https://github.com/sarasapaula/NestedNavigation/blob/main/nestedNavigation.jpg)
 
 
 # Installation
